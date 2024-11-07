@@ -121,7 +121,7 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Food Delivery",
     image: projectImage1,
     description: `Indulge in a visually stunning food website featuring vibrant images, sleek design, and easy navigation. Discover mouthwatering recipes, restaurant reviews, and culinary tips in an elegant, user-friendly interface.`,
     techstack: "HTML/CSS, JavaScript",
@@ -129,7 +129,7 @@ export const projectDetails = [
     githubLink: "https://github.com/Jeet-12/foodiejeet",
   },
   {
-    title: "Project title 2",
+    title: "Real State",
     image: projectImage2,
     description: `A comprehensive real estate website offering property listings, virtual tours, market insights, and expert advice. User-friendly interface for buying, selling, and renting homes with advanced search and personalized recommendations.`,
     techstack: "HTML/CSS, JavaScript",
@@ -137,7 +137,7 @@ export const projectDetails = [
     githubLink: "https://github.com/Jeet-12/realstate",
   },
   {
-    title: "Project title 3",
+    title: "Chat Application",
     image: projectImage3,
     description: `Our chat application website offers seamless, real-time messaging with rich features like file sharing, group chats, and end-to-end encryption, ensuring secure and efficient communication for personal and professional use.`,
     techstack: "HTML/CSS, JavaScript",
@@ -145,7 +145,7 @@ export const projectDetails = [
     githubLink: "https://github.com/Jeet-12/gupshup",
   },
   {
-    title: "Project title 4",
+    title: "Ecommerce Website",
     image: projectImage4,
     description: `An eCommerce website offering a seamless shopping experience with a vast selection of products, secure payment options, user-friendly navigation, personalized recommendations, and fast, reliable delivery services.`,
     techstack: "HTML/CSS, JavaScript",
@@ -153,7 +153,7 @@ export const projectDetails = [
     githubLink: "https://github.com/Jeet-12/Ecomwithpayment",
   },
   {
-    title: "Project title 5",
+    title: "Tour and Travel",
     image: projectImage5,
     description: `Discover top travel destinations, book affordable tours, and find exclusive deals on our user-friendly website. Your adventure begins here with personalized itineraries and 24/7 customer support for a seamless experience.`,
     techstack: "HTML/CSS, JavaScript",
@@ -161,7 +161,7 @@ export const projectDetails = [
     githubLink: "https://github.com/Jeet-12/tour-travel",
   },
   {
-    title: "Project title 6",
+    title: "Educational Website",
     image: projectImage6,
     description: `A comprehensive education website offering interactive courses, engaging tutorials, and a wide range of resources for students and educators. Empowering learning with expert guidance and innovative tools for academic success.`,
     techstack: "HTML/CSS, JavaScript",
